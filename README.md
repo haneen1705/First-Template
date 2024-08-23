@@ -7,7 +7,7 @@ Screenshot of the project on my laptop: (https://github.com/user-attachments/ass
 
 Links
 Solution URL: https://github.com/haneen1705/First-Template
-Live Site URL: https://github.com/haneen1705/First-Template/blob/main/index.html
+Live Site URL: https://haneen1705.github.io/First-Template/
 My process
 Built with
 Semantic HTML5 markup
