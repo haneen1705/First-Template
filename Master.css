@@ -151,10 +151,11 @@ h2::after{
         font-size: 13px;
     }
     .body h3 {
-        font-size: 15px;
-        padding: 10px;
+        font-size: 20px;
+        padding: 10px 10px 0px;
     }
     .body div {
+        padding: 10px;
         font-size: 15px;
     }
     .body div>span:last-child {
@@ -162,7 +163,7 @@ h2::after{
     }
     .cont {
         background-color: #36467a;
-        top: 84%;
+        top: 85%;
         left: 8%;
         width: 85%;
         height: 50px;
@@ -173,7 +174,7 @@ h2::after{
         font-size: 11px;
         text-align: center;
         position: absolute;
-        top: 63em;
+        top: 57em;
         left: 0rem;
     }
 }
